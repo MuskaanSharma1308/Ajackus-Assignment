@@ -1,4 +1,4 @@
 
 flask
-sqlite3
+
 gunicorn
