@@ -7,7 +7,7 @@ This project processes queries using regular expressions (regex) and interacts w
 - Data Insertion: Inserts provided data into the SQLite table.
 - Query Processing: Takes user queries and displays the relevant data.
 - Regex Utilization: Uses regular expressions to process and filter queries effectively.
-- Exceptional handling is done 
+- Exception handling is done 
 - Accepts natural language queries
 
 
